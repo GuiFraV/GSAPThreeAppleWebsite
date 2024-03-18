@@ -1,9 +1,10 @@
+import Navbar from "./components/Navbar"
 
 const App = () => {
 
   return (
     <main className="bg-black">
-      Navbar
+      <Navbar />
       Hero
       Highlights
     </main>
